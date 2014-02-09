@@ -1,16 +1,16 @@
-package com.eLLectron.ll_rogue;
+package com.eLLectron.cosmoBox;
 
 import android.content.Context;
 import android.widget.GridLayout;
 import android.widget.ImageView;
 
 public class Display {
-	// TODO : Améliorer la fonction display avec la gestion de tous les cas
+	// TODO : Amï¿½liorer la fonction display avec la gestion de tous les cas
 	public void displayMap(GridLayout tileMap, int[][] map, int player_y,
 			int player_x, Context context) {
 
 		/*
-		 * Fonction d'affichage Double for sur les coordonnées de la map Switch
+		 * Fonction d'affichage Double for sur les coordonnï¿½es de la map Switch
 		 * sur le nombre contenu dans la case -> Affichage de l'image
 		 * correspondante
 		 */
