@@ -3,7 +3,6 @@ cosmoBox
 Last edit :
 10/02/14
 =
-=
 Changelog :
 =
 ~cosmoBox 0.0.0.2
